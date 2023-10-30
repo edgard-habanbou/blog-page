@@ -1,0 +1,29 @@
+
+.title{
+    text-decoration: underline;
+    text-align: center;
+    color: rgb(99, 97, 97);
+    font-size: 1.5em;
+}
+.header{
+    font-size: 1.3em;
+    text-decoration: underline;
+    font-style: italic;
+    color: rgb(99, 97, 97);
+    
+}
+.text{
+    font-size: 1.2em;
+
+}
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    height: 50%;
+    width: 50%;
+}
+*{
+    padding: 3px;
+}
